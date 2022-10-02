@@ -2,6 +2,8 @@
 
 Projeto do alura cursos - CSS - Flexbox e Grid
 
+Projeto com foco em aplicações de Flexbox e Grid para aprimoramento das técnicas
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
